@@ -8,7 +8,7 @@ This is a React Kanban board application that allows users to create and manage 
 - Responsive design with Tailwind CSS
 
 ## Demo
-- Check out the [live demo]() to see the app in action.
+- Check out the [live demo](https://simple-kanban-fahimesti.netlify.app/) to see the app in action.
 
 ## Installation
 Clone the repository: git clone https://github.com/your-username/react-kanban-board.git
